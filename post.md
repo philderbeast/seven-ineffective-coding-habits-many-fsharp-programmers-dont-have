@@ -34,7 +34,7 @@ Not only is the F# implementation shorter and generally more useful (i.e. higher
 >
 > The F# project took less than a year and peaked at three devs (only one had prior experience with F#). All of the contracts were fully implemented.
 
-In summary, by removing the need for `{}` as a core part of the language structure and not having nulls, F# removes a lot of the noise that are usually found in C# code.
+In summary, by removing the need for `{}` as a core part of the language structure and not having nulls, F# filters out this noise found in C# code, the intent becomes more obvious and comments are not so often needed.
 
 ## Visual Dishonesty
 
